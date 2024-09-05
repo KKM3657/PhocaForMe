@@ -1,6 +1,8 @@
-# ReadMe
+# PhocaForMe-포카포미
 
-# PhocaForMe-포카포미: 아이돌 포토카드 교환 플랫폼
+---
+
+**: 아이돌 포토카드 교환 플랫폼**
 
 ![Untitled.png](README%2FUntitled.png)
 
@@ -31,14 +33,14 @@
 
 ### 👪 참여 인원 및 역할
 
-| 이름 | 역할 |
-| --- | --- |
-| *** | BackEnd & Team Leader |
-| *** | BackEnd  |
-| *** | BackEnd  |
-| *** | BackEnd  |
-| *** | FrontEnd |
-| *** | FrontEnd |
+| 이름 | 역할 | 기능 |
+| --- | --- | --- |
+| *** | BackEnd & Team Leader | 로그인 기능 개발, 알림 기능 개발 |
+| *** | BackEnd  | 채팅 기능 개발, 아이돌 데이터 생성 |
+| *** | BackEnd  | 검색 기능 개발, 아이돌 데이터 생성 |
+| *** | BackEnd  | 게시판 기능 개발, 인프라 구축 |
+| *** | FrontEnd | 프론트엔드 개발 |
+| *** | FrontEnd | UI디자인, 프론트엔드 개발 |
 
 ## ✨ 프로젝트 개요
 
@@ -123,7 +125,7 @@
 
 [https://eastern-wrist-127.notion.site/API-2e61d4f4796b493ebe040852d4813b34?pvs=4](https://www.notion.so/API-2e61d4f4796b493ebe040852d4813b34?pvs=21)
 
-## :아키텍처
+## ✅ 아키텍처
 
 ---
 
@@ -133,48 +135,54 @@
 
 ---
 
-1. 메인화면
+### 1. 메인화면
 
-![Untitled 2.png](README%2FUntitled%202.png)
-
-![Untitled 3.png](README%2FUntitled%203.png)
-
-2. 로그인
-
-![Untitled 4.png](README%2FUntitled%204.png)
-
-![Untitled 5.png](README%2FUntitled%205.png)
-
-3. 로그아웃
-
-![Untitled 6.png](README%2FUntitled%206.png)
-
-![Untitled 7.png](README%2FUntitled%207.png)
-
-4. 게시물 작성
-
-![Untitled 8.png](README%2FUntitled%208.png)
-
-![Untitled 9.png](README%2FUntitled%209.png)
-
-5. 채팅하기
-
-![Untitled 10.png](README%2FUntitled%2010.png)
-
-![Untitled 11.png](README%2FUntitled%2011.png)
-
-6. 검색하기
-
-![Untitled 12.png](README%2FUntitled%2012.png)
-
-![Untitled 13.png](README%2FUntitled%2013.png)
-
-![Untitled 12.png](README%2FUntitled%2012.png)
-
-![Untitled 14.png](README%2FUntitled%2014.png)
+| <img title="Untitled 2.png" src="README%2FUntitled%202.png" alt="" width="400" height="700"> | <img title="Untitled 3.png" src="README%2FUntitled%203.png" alt="" width="400" height="700"> |
+| --------------------------------------------------------------- | ------------------------------------------------------------------- |
+| 메인화면                                                  | 둘러보기                                           | 
 
 
+### 2. 로그인
 
-7. 갈망포카 알림 및 채팅 알림
+| <img title="Untitled 4.png" src="README%2FUntitled%204.png" alt="" width="400" height="700"> | <img title="Untitled 5.png" src="README%2FUntitled%205.png" alt="" width="400" height="700"> |
+| --------------------------------------------------------------- | ------------------------------------------------------------------- |
+| 로그인                                                  | 카카오 로그인                                           | 
 
-![Untitled.jpeg](README%2FUntitled.jpeg)
+
+### 3. 로그아웃
+
+| <img title="Untitled 6.png" src="README%2FUntitled%206.png" alt="" width="400" height="700"> | <img title="Untitled 7.png" src="README%2FUntitled%207.png" alt="" width="400" height="700"> |
+| --------------------------------------------------------------- | ------------------------------------------------------------------- |
+| 로그아웃                                                  | 카카오 로그아웃                                           | 
+
+
+### 4. 게시물 작성
+
+| <img title="Untitled 8.png" src="README%2FUntitled%208.png" alt="" width="400" height="700"> | <img title="Untitled 9.png" src="README%2FUntitled%209.png" alt="" width="400" height="700"> |
+| --------------------------------------------------------------- | ------------------------------------------------------------------- |
+| 게시물 작성                                                  | 게시물 작성 완료                                           | 
+
+
+### 5. 채팅하기
+
+| <img title="Untitled 10.png" src="README%2FUntitled%2010.png" alt="" width="400" height="700"> | <img title="Untitled 11.png" src="README%2FUntitled%2011.png" alt="" width="400" height="700"> |
+| --------------------------------------------------------------- | ------------------------------------------------------------------- |
+| 메인 화면                                                  | 채팅 하기                                           | 
+
+
+### 6. 검색하기
+
+| <img title="Untitled 12.png" src="README%2FUntitled%2012.png" alt="" width="400" height="700"> | <img title="Untitled 13.png" src="README%2FUntitled%2013.png" alt="" width="400" height="700"> |
+| --------------------------------------------------------------- | ------------------------------------------------------------------- |
+| 검색 화면                                                  | GPS 켜기                                           |
+
+| <img title="Untitled 14.png" src="README%2FUntitled%2012.png" alt="" width="400" height="700"> | <img title="Untitled 15.png" src="README%2FUntitled%2014.png" alt="" width="400" height="700"> |
+| --------------------------------------------------------------- | ------------------------------------------------------------------- |
+| 검색 화면                                                  | GPS 끄기                                          | 
+
+
+### 7. 갈망포카 알림 및 채팅 알림
+
+| <img title="Untitled.jpeg" src="README%2FUntitled.jpeg" alt="" width="400" height="700"> |
+| --------------------------------------------------------------- |
+| 알림 화면                                                  |
